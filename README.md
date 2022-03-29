@@ -4,7 +4,7 @@
 
 运行演示:
 
-![运行演示](https://gitee.com/sherlinz0/img-storage/raw/master/antd-demo.png)
+![运行演示](https://img-1305590520.cos.ap-shanghai.myqcloud.com/antd-demo.png)
 
 ## 项目运行步骤:
 
